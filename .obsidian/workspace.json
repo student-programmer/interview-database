@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Подготовка к яндекс собесу"
             }
+          },
+          {
+            "id": "9d10880908669fc0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250226231723.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250226231723"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,12 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4b9919071bad94b",
+  "active": "011b3f1adeb72fb7",
   "lastOpenFiles": [
-    "Pasted image 20250226231744.png",
-    "Pasted image 20250226231723.png",
-    "Pasted image 20250226225803.png",
-    "Welcome.md",
-    "Подготовка к яндекс собесу.md"
+    "images/Pasted image 20250226231723.png",
+    "images/Pasted image 20250226225803.png",
+    "Подготовка к яндекс собесу.md",
+    "images/Pasted image 20250226231744.png",
+    "images",
+    "Welcome.md"
   ]
 }
